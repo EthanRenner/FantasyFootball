@@ -1,0 +1,28 @@
+Made 1-39,3
+Missed 1-39,-1
+Made 40-49,4
+Missed 49-49,-1
+Made 50+,5
+Missed 50+,-1
+Made extra point,1
+Missed extra point,0
+Return TD,6
+Interception,2
+Fumble recovered,2
+Sack,1
+Safety,2
+Blocked kick,2
+Points allowed,0
+Passing completions,0
+Passing attempts,0
+Passing yards,.04
+Passing TD,4
+Passing interception,-2
+Rushing attempts,0
+Rushing yards,.1
+Receptions,0
+Targets,0
+Receiving yards,.04
+Receiving TD,6
+2 point conversion,2
+Fumbles lost,-2

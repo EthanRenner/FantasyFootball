@@ -1,0 +1,16 @@
+Nick Mullens
+Quarterback
+Return TD,0
+Passing completions,16
+Passing attempts,22
+Passing yards,262
+Passing TD,3
+Passing interception,0
+Rushing attempts,4
+Rushing yards,-3
+Receptions,0
+Targets,0
+Receiving yards,0
+Receiving TD,0
+2 point conversion,0
+Fumbles lost,0

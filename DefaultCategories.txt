@@ -1,0 +1,28 @@
+Made 1-39
+Missed 1-39
+Made 40-49
+Missed 49-49
+Made 50+
+Missed 50+
+Made extra point
+Missed extra point
+Return TD
+Interception
+Fumble recovered
+Sack
+Safety
+Blocked kick
+Points allowed
+Passing completions
+Passing attempts
+Passing yards
+Passing TD
+Passing interception
+Rushing attempts
+Rushing yards
+Receptions
+Targets
+Receiving yards
+Receiving TD
+2 point conversion
+Fumbles lost

@@ -1,0 +1,30 @@
+Default Name
+Default Position
+Made 1-39,0
+Missed 1-39,0
+Made 40-49,0
+Missed 49-49,0
+Made 50+,0
+Missed 50+,0
+Made extra point,0
+Missed extra point,0
+Return TD,0
+Interception,0
+Fumble recovered,0
+Sack,0
+Safety,0
+Blocked kick,0
+Points allowed,0
+Passing completions,0
+Passing attempts,0
+Passing yards,0
+Passing TD,0
+Passing interception,0
+Rushing attempts,0
+Rushing yards,0
+Receptions,0
+Targets,0
+Receiving yards,0
+Receiving TD,0
+2 point conversion,0
+Fumbles lost,0
