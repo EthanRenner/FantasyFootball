@@ -1,0 +1,8 @@
+This is some of the beginning work specifically on the model class Player.java and FPSpread.java.
+
+Overall the program will likely follow a MVC structure. 
+There will be models for the players (Player.java), the overall team, and the fantasy spread(FPSpread.java).
+There is currently a temporary controller (PlayerApp.java) that only uses a default point spread then asks for a player's information. This was only for testing purposes and the main method will be changed in the future.
+There is currently a temporary view (IO.java) that only uses console input and output. This was only for testing purposes and will be changed in the future to incorporate a GUI.
+
+I am currently also using a class to help create a standard way of naming statistical categories (CategoryLists.java). I am not sure if this is the route we will want to continue taking in the future, but I used it now to standardize how I created Player and FPSpread instances based off of text files.
